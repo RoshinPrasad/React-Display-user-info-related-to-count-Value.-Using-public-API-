@@ -1,0 +1,46 @@
+
+  .App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  
+  .profile-card {
+    text-align: center;
+    
+  }
+  
+  .username {
+    background-color: rgb(63, 180, 234);
+    color: rgb(9, 8, 8);
+    padding: 20px;
+    margin-left: -300px;
+    margin-right: -300px;
+  }
+
+  .container {
+    border: 1px solid #020202;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+
+  }
+
+  .button-container button {
+    margin: 0 5px; 
+    font-size: 16px; 
+    padding: 10px 130px; 
+    
+  }
+  
+  
